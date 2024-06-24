@@ -4,6 +4,10 @@
 ## week 1
 
 ```bash
+pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn
+```
+
+```bash
 export OPENAI_API_KEY=...
 ```
 
