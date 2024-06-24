@@ -1,5 +1,6 @@
 # llm-zoomcamp
-
+ 
+Course repo: https://github.com/DataTalksClub/llm-zoomcamp/blob/main
 
 ## week 1
 
