@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/02-open-source/ollama_files
+
+
 # C extensions
 *.so
 
